@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    font-family: "Roboto", "Oxygen", "Ubuntu", "Cantarell";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 20px;
+}
+
+.header a {
+    margin: 0 10px;
+
+}

@@ -1,0 +1,4 @@
+// first command to create the react appliaction
+create-react-app client
+
+>npm i --save react-router-dom redux react-redux redux-form axios redux-thunk
